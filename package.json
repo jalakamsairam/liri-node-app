@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jalakamsairam/liri-node-app/issues"
   },
-  "homepage": "https://github.com/jalakamsairam/liri-node-app#readme"
+  "homepage": "https://github.com/jalakamsairam/liri-node-app#readme",
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "node-spotify-api": "^1.0.7",
+    "require": "^2.4.20",
+    "twitter": "^1.7.1"
+  }
 }
